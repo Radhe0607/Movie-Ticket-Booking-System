@@ -1,7 +1,6 @@
 # Movie Tickets Booking System C++ Project - urssanjaysingh/Movie-Tickets-Booking-System
 
-Welcome to the GitHub repository for the Movie Tickets Booking System C++ project - urssanjaysingh/Movie-Tickets-Booking-System!
-
+Welcome, to my Ticket management system
 ## Overview
 
 This repository contains the source code and related files for the Movie Tickets Booking System, a C++ project that simulates a simple movie ticket booking application.
